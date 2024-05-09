@@ -1,0 +1,454 @@
+body {
+
+    margin: 0 auto;
+    width: 3000px;
+    background-color: #87ceeb;
+}
+
+#maintitle {
+
+    position: absolute;
+}
+
+/* メイン画面*/
+#mainstart {
+
+    margin-left: 1100px;
+
+    border: none;
+    background: transparent;
+
+    margin-top: 1300px;
+
+    position: relative;
+
+
+}
+#mainstart:hover {
+
+    transform: translateY(-20px);
+
+}
+#gonext {
+   
+    /* margin-right: 1600px; */
+
+    border: none;
+    background-color: transparent;
+
+    margin-top: 20px;
+    margin-left: 2300px;
+}
+#gonext:hover {
+
+    transform: translateY(-20px);
+
+}
+
+#gonext2 {
+   
+
+
+    border: none;
+    background-color: transparent;
+
+    
+}
+#gonext2:hover {
+
+    transform: translateY(-20px);
+
+}
+
+#gohome:hover {
+
+    transform: translateY(-20px);
+
+}
+#gohome{
+
+    border: none;
+    background-color: transparent;
+    /* margin-left: 200px; */
+    
+}
+
+/* How To Play*/
+#howtoplay {
+    margin-top: 15px;
+    display: none;
+    
+}
+
+/* キャラクター選択 */
+#charactertitle {
+
+    margin-left: 500px;
+    margin-top: 80px;
+}
+#select_character {
+
+    border: none;
+    background: transparent;
+    margin-left: 1100px;
+   
+}
+#show_nancy {
+
+    margin-left: 1100px;
+}
+#show_emma {
+
+    margin-left: 1100px;
+}
+#show_lisa {
+
+    margin-left: 1100px;
+}
+#go_nancy {
+   
+    margin-left: 1200px;
+    
+
+    border: none;
+    background-color: transparent;
+}
+#go_nancy:hover {
+
+    transform: translateY(-20px);
+
+}
+#go_emma {
+   
+    margin-left: 1200px;
+    
+
+    border: none;
+    background-color: transparent;
+}
+#go_emma:hover {
+
+    transform: translateY(-20px);
+
+}
+#go_lisa {
+   
+    margin-left: 1200px;
+   
+
+    border: none;
+    background-color: transparent;
+}
+#go_lisa:hover {
+
+    transform: translateY(-20px);
+
+}
+
+/* Nancyページ */
+#nancy_text {
+
+    display: none;
+    margin-bottom: 30px;
+   
+}
+#perfectchoice {
+
+    margin-left: 500px;
+}
+.nancy_screen {
+
+    position: relative;
+}
+#answer_for_nancy {
+
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+#nancy_answers {
+    
+    margin-left: 200px;
+    margin-top: 50px;
+}
+#nancy_ice1 {
+
+    border: none;
+    background: transparent;
+   
+}
+#nancy_ice2 {
+
+    border: none;
+    background: transparent;
+}
+#nancy_ice3 {
+
+    border: none;
+    background: transparent;
+}
+#nancy_ice4 {
+
+    border: none;
+    background: transparent;
+}
+#nancy_ice5 {
+
+    border: none;
+    background: transparent;
+}
+#nancy_ice1:hover {
+
+    transform: translateY(-20px);
+}
+#nancy_ice2:hover {
+
+    transform: translateY(-20px);
+}
+#nancy_ice3:hover {
+
+    transform: translateY(-20px);
+}
+#nancy_ice4:hover {
+
+    transform: translateY(-20px);
+}
+#nancy_ice5:hover {
+
+    transform: translateY(-20px);
+}
+
+
+/* Emmaページ */
+#emma_text {
+
+    display: none;
+    margin-bottom: 30px;
+   
+}
+.emma_screen {
+
+    position: relative;
+}
+#answer_for_emma {
+
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+#emma_answers {
+    
+    margin-left: 200px;
+    margin-top: 50px;
+}
+#emma_ice1 {
+
+    border: none;
+    background: transparent;
+   
+}
+#emma_ice2 {
+
+    border: none;
+    background: transparent;
+}
+#emma_ice3 {
+
+    border: none;
+    background: transparent;
+}
+#emma_ice4 {
+
+    border: none;
+    background: transparent;
+}
+#emma_ice5 {
+
+    border: none;
+    background: transparent;
+}
+#emma_ice1:hover {
+
+    transform: translateY(-20px);
+}
+#emma_ice2:hover {
+
+    transform: translateY(-20px);
+}
+#emma_ice3:hover {
+
+    transform: translateY(-20px);
+}
+#emma_ice4:hover {
+
+    transform: translateY(-20px);
+}
+#emma_ice5:hover {
+
+    transform: translateY(-20px);
+}
+
+/* Lisaページ */
+#lisa_text {
+
+    display: none;
+    margin-bottom: 30px;
+   
+}
+.lisa_screen {
+
+    position: relative;
+}
+#answer_for_lisa {
+
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+#lisa_answers {
+    
+    margin-left: 200px;
+    margin-top: 50px;
+}
+#lisa_ice1 {
+
+    border: none;
+    background: transparent;
+   
+}
+#lisa_ice2 {
+
+    border: none;
+    background: transparent;
+}
+#lisa_ice3 {
+
+    border: none;
+    background: transparent;
+}
+#lisa_ice4 {
+
+    border: none;
+    background: transparent;
+}
+#lisa_ice5 {
+
+    border: none;
+    background: transparent;
+}
+#lisa_ice1:hover {
+
+    transform: translateY(-20px);
+}
+#lisa_ice2:hover {
+
+    transform: translateY(-20px);
+}
+#lisa_ice3:hover {
+
+    transform: translateY(-20px);
+}
+#lisa_ice4:hover {
+
+    transform: translateY(-20px);
+}
+#lisa_ice5:hover {
+
+    transform: translateY(-20px);
+}
+
+
+
+
+
+
+/* #selectnancy {
+
+    border: none;
+    background: transparent;
+
+    display: none;
+}
+
+#selectnancy:hover {
+
+    transform: translateY(-20px);
+}
+
+#selectemma {
+    border: none;
+    background: transparent;
+
+    margin-right: 100px;
+
+    display: none;
+
+}
+
+#selectemma:hover {
+
+    transform: translateY(-20px);
+}
+
+#selectlisa {
+    border: none;
+    background: transparent;
+
+    display: none;
+
+}
+
+#selectlisa:hover {
+    transform: translateY(-20px);
+
+} */
+
+
+
+
+
+
+
+/* body{
+    margin:0;
+    padding:0;
+    text-align:left;
+    font-size: 32px;
+}
+header{
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+}
+main{
+    border-bottom:1px solid #ccc;
+}
+footer{
+    background-color: #fff;
+    border-bottom:1px solid #ccc;
+    text-align: center;
+}
+p{
+    font-size:200%;
+    text-align: center;
+    border-bottom:1px solid #fff;
+    height:200px;
+}
+ul{
+    padding: 0;
+    border-top: 1px solid #000000;
+    display:table; 
+    table-layout: fixed;
+    width:100%;
+}
+li{
+    list-style-type:none;
+    border: 1px solid #666;
+    background-color: #FFF;
+    display:table-cell;  
+    cursor: pointer;
+}
+li:hover{
+    background: #0066CC;
+    color:#fff;
+} */
