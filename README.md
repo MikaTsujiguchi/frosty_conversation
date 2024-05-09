@@ -15,7 +15,9 @@ Frosty Conversation
   
 ## ③DEMO
 
-デプロイしている場合はURLを記入（任意）
+https://mikatsujiguchi.github.io/frosty_conversation/
+
+表示を30-40%に縮小してください；；
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
